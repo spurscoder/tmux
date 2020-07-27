@@ -3,9 +3,9 @@ MY .tmux
 
 ```
 $ cd
-$ git clone https://github.com/gpakosz/.tmux.git
+$ git clone this repo
 $ ln -s -f .tmux/.tmux.conf
-$ cp .tmux/.tmux.conf.local .
+$ ln -s -f .tmux/.tmux.conf.local
 ```
 
 .tmux
